@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dynamic_button_width">110dp</dimen>
+    <dimen name="dynamic_button_height">110dp</dimen>
+
+    <dimen name="dynamic_button_margin_bottom">20dp</dimen>
+    <dimen name="dynamic_button_margin_end">0dp</dimen>
+    <dimen name="dynamic_button_elevation">2dp</dimen>
+    <dimen name="dynamic_button_text">110dp</dimen>
+</resources>
